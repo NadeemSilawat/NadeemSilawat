@@ -5,6 +5,10 @@
 ###
 
 <p align="left">My name is Nadeem Silawat and I'm a Devloper,from India</p>
+I'm a passionate full-stack developer with expertise in JavaScript, React.js, Node.js, HTML, and CSS. I love turning ideas into code and building scalable and efficient web applications.
+
+- 🌱 I'm constantly learning and exploring new technologies
+- 💡 I'm open to collaboration and eager to contribute to exciting projects
 
 ###
 
