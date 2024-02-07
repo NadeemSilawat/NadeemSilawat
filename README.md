@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Nadeem Silawat and I'm a Devloper.</p>
+<p align="left">My name is Nadeem Silawat and I'm a Devloper,from India</p>
 
 ###
 
@@ -40,13 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="15" />
 </div>
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
 
 
 
