@@ -45,6 +45,3 @@ I'm a passionate full-stack developer with expertise in JavaScript, React.js, No
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/NadeemSIlawat/NadeemSIlawat/output/snake.svg" alt="Snake animation" />
-
-###
